@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**darshdp215-gif/darshdp215-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Working on : JEEVA, Quantum Learning Platform, Attendance Management System, Portfolio
+👯 Collaboration : Python and Java projects
+🤝 Help with : Python, Java, DSA, AI/ML, Quantum Computing, Full-Stack
+🌱 Learning : Python, Java, DSA, HTML, CSS, JavaScript
+💬 Ask me about : Programming, Web Development, Engineering Projects, GitHub
+⚡ Fun fact : Beginner developer, passionate about learning and building
 
-Here are some ideas to get you started:
+🌐 Socials:
+Bluesky Instagram [LinkedIn](https://linkedin.com/in/Darshan R) X Mastodon email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C C++ Java Python Windows Terminal AWS Firebase Netlify Oracle FastAPI NodeJS React Firebase MySQL Postgres Supabase Adobe Canva Figma NumPy GitHub Docker Meta Portfolio Power Bi nVIDIA
+
+📊 GitHub Stats:
+
+
+
+
